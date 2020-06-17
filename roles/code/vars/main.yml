@@ -1,14 +1,18 @@
 extensions:
   - CoenraadS.bracket-pair-colorizer-2
   - ms-python.python
-  - ms-vscode.Go
   - shardulm94.trailing-spaces
-  - vscode-icons-team.vscode-icons
+  #- vscode-icons-team.vscode-icons
   - vscoss.vscode-ansible
-  - yzane.markdown-pdf
-  - yzhang.markdown-all-in-one
-  - oderwat.indent-rainbow
+  #- yzhang.markdown-all-in-one
+  #- oderwat.indent-rainbow
   - ms-azuretools.vscode-docker
-  - vscodevim.vim
+  #- vscodevim.vim
   - redhat.vscode-yaml
-  - ms-vscode-remote.remote-ssh
+  - mechatroner.rainbow-csv
+  - ms-vscode.wordcount
+  - ms-vscode-remote.vscode-remote-extensionpack
+  #- streetsidesoftware.code-spell-checker
+  #- streetsidesoftware.code-spell-checker-german
+  - wholroyd.jinja
+  
